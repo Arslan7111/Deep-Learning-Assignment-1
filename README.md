@@ -43,4 +43,4 @@ Included insights on:
 ## Author
 
 Ahmad Arslan  
-Student & Co-Founder at Grynas Private Ltd
+Student 
